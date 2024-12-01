@@ -3,7 +3,8 @@
 This project is an interactive Power BI dashboard analyzing the top-performing players in T20 cricket. The dashboard ranks players based on key metrics such as runs, wickets, strike rate, and economy rate, providing a comprehensive view of player performance for cricket enthusiasts and analysts.
 
 🖼️ Dashboard Snapshots
-(Insert screenshots of the dashboard here)
+
+![t20 worldcup power bi project 12_2_2024 3_30_40 AM](https://github.com/user-attachments/assets/b9d10e1c-1678-467f-a21d-1578b83ec3cb)
 
 Overall Player Performance
 
